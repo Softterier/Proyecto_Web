@@ -1,4 +1,4 @@
-## Pagina de Proyecto Patriminio
+## Pagina de Proyecto Patrimonio
 
 Monumentos
 Lugares
