@@ -13,5 +13,6 @@
 <body> 
 <h1 style="background-color:DodgerBlue;">Hola Mundo </h1>	
 <p style="background-color:DodgerBlue;"><b>Parrafo Pedro Rivera</b></p>
+<script src="scripts/main.js"></script>
 </body>
 </html>
