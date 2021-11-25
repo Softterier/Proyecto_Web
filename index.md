@@ -21,12 +21,13 @@ Link de las paginas del Proyecto
 
 [Link](url) and ![Image](src)
 ```
-### Machine Learning
+### Deep learning
+
+Deep learning is an AI function and subset of machine learning, used for processing large amounts of complex data.
+
+### machine-learning-algorithms
+
 Machine learning is the practice of teaching a computer to learn. The concept uses pattern recognition, as well as other forms of predictive algorithms, to make judgments on incoming data. This field is closely related to artificial intelligence and computational statistics.
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Softterier/Proyecto_Web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
