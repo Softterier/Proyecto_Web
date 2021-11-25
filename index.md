@@ -4,7 +4,7 @@ Monumentos
 Lugares
 Procuraduria Delegada Civil y laboral - PGN
 
-```
+
 ### Aprendizaje profundo
 
 El aprendizaje profundo es una función de inteligencia artificial y un subconjunto del aprendizaje automático, que se utiliza para procesar grandes cantidades de datos complejos.
@@ -21,6 +21,7 @@ El proceso de creación, uso y mantenimiento de modelos de aprendizaje automáti
 - Explore conceptos básicos como 'modelos', 'predicciones' y 'datos de entrenamiento'.
 
 En un nivel alto, el oficio de crear procesos de aprendizaje automático (ML) se compone de una serie de pasos:
+```
 
 ** 1. Decidir sobre la pregunta **. 
 La mayoría de los procesos de AA comienzan haciendo una pregunta que no puede ser respondida por un programa condicional simple o un motor basado en reglas.
