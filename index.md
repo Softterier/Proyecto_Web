@@ -1,7 +1,7 @@
 ## Pagina de Proyecto Patrimonio
 
-Monumentos
-Lugares
+-Monumentos
+-Lugares
 Procuraduria Delegada Civil y laboral - PGN
 
 
